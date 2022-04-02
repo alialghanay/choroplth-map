@@ -7,6 +7,16 @@
   pointer-events: none;
 }
 
+#tooltip {
+  visibility: hidden;
+  position: absolute;
+  background-color: #282c34;
+  color: #FFF;
+  border-radius: 0.5rem;
+}
+.county:hover{
+  fill: black;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
