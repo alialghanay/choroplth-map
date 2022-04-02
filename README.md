@@ -5,7 +5,7 @@ This project was created to pass [FCC](https://www.freecodecamp.org/) Visualize 
 
 ## Available Scripts
 
-project [gh-page](https://alialghanay.github.io/choropleth-map/).
+project [gh-page](https://alialghanay.github.io/choroplth-map/).
 
 ## Project User Story 
 ### 1: 

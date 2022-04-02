@@ -1,6 +1,6 @@
 {
   "name": "choroplth-map",
-  "homepage": "https://alialghanay.github.io/choropleth-map/",
+  "homepage": "https://alialghanay.github.io/choroplth-map/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
