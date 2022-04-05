@@ -1,4 +1,4 @@
-# Monthly Global Land-Surface Temperature
+# Visualize United States Educational Attainment Data with a Choropleth Map
 
 This project was created to pass [FCC](https://www.freecodecamp.org/) Visualize Data with a Choropleth Map Challenge.
 
